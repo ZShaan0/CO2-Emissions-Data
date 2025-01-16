@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS co2_emissions;
+CREATE DATABASE co2_emissions;
